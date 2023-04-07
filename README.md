@@ -2,7 +2,7 @@
 ## API Links:
 
 <h3>Phone Search<h3>
-  
+ #### 
 URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}
 
 Example: https://openapi.programming-hero.com/api/phones?search=iphone
@@ -10,8 +10,8 @@ Example: https://openapi.programming-hero.com/api/phones?search=iphone
   
   
 <h3>Phone detail url:<h3>
-
-#### URL Format: https://openapi.programming-hero.com/api/phone/${id}
+####
+ URL Format: https://openapi.programming-hero.com/api/phone/${id}
 
 Example: https://openapi.programming-hero.com/api/phone/apple_iphone_13_pro_max-11089
     
