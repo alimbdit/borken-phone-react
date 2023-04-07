@@ -1,7 +1,7 @@
 # borken-phone-react
 ## API Links:
 
-####<h3>Phone Search<h3>
+###Phone Search
 
 URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}
 
