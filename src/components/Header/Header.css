@@ -1,0 +1,10 @@
+.menu a{
+    @apply mr-5 font-bold text-xl
+}
+
+.active{
+    @apply text-orange-500
+}
+/* .inactive{
+    @apply 
+} */
