@@ -3,7 +3,7 @@
 
 ###Phone Search
 
-URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}
+<p>URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}</p>
 
 Example: https://openapi.programming-hero.com/api/phones?search=iphone
 
